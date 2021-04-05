@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "875230298797",
+    "project_id": "fcm-training-d1816",
+    "storage_bucket": "fcm-training-d1816.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875230298797:android:f254b511ae8ad6f2e9fc24",
+        "android_client_info": {
+          "package_name": "apps.webscare.fcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "875230298797-ip7gm3bm69nba4enh9037t1bvg0f5d5l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxzcu1m-tyHlLez5ni_8RyAyGxAZAx_cM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "875230298797-ip7gm3bm69nba4enh9037t1bvg0f5d5l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875230298797:android:18fa0e359c98c083e9fc24",
+        "android_client_info": {
+          "package_name": "apps.webscare.firbasecloudmessaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "875230298797-ip7gm3bm69nba4enh9037t1bvg0f5d5l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxzcu1m-tyHlLez5ni_8RyAyGxAZAx_cM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "875230298797-ip7gm3bm69nba4enh9037t1bvg0f5d5l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
